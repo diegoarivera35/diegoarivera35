@@ -16,7 +16,6 @@ Ruby on Rails for turning concepts into powerful web solutions.
 
 🌟 Let's connect and collaborate on projects that bridge the gap between design and technology. Together, we can craft the future one line of code at a time.
 
-Feel free to personalize and modify this bio to suit your style and preferences. Good luck with your GitHub profile, and happy coding!
 <!--
 **diegoarivera35/diegoarivera35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
