@@ -2,7 +2,7 @@
 
 🛠️ Industrial Designer & Code Enthusiast 💻
 
-👋 Hey there, I'm [Your Name]! Welcome to my GitHub world where design meets code.
+👋 Hey there, I'm Diego Rivera Acosta! Welcome to my GitHub world where design meets code.
 
 🎨 As an industrial designer by trade, I bring a unique perspective to the world of programming. I thrive on the intersection of aesthetics and functionality, turning ideas into beautifully crafted digital experiences.
 
